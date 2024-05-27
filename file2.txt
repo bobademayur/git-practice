@@ -1,0 +1,3 @@
+hello this is file2.
+we are learning how to use git..
+happy learning.....
